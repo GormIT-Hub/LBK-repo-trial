@@ -1,5 +1,0 @@
-traj_len,frame,region,particle,particle_resid
-2733,1061,Channel,['SOD'],[np.int64(2300)]
-2733,1063,Channel,['SOD'],[np.int64(2300)]
-2733,1065,Channel,['SOD'],[np.int64(2300)]
-2733,1068,Channel,['SOD'],[np.int64(2300)]

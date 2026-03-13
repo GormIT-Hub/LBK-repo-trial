@@ -1,8 +1,0 @@
-traj_len,frame,region,particle,particle_resid
-2766,1222,VSD1,['CLA'],[np.int64(1710)]
-2766,1239,VSD1,['CLA'],[np.int64(1710)]
-2766,1415,VSD1,['CLA'],[np.int64(1710)]
-2766,1417,VSD1,['CLA'],[np.int64(1710)]
-2766,1422,VSD1,['CLA'],[np.int64(1710)]
-2766,1432,VSD1,['CLA'],[np.int64(1710)]
-2766,2405,VSD1,['SOD'],[np.int64(1640)]
