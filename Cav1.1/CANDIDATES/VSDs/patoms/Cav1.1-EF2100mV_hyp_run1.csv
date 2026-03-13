@@ -1,0 +1,6 @@
+traj_len,frame,region,particle,particle_resid
+3061,2084,VSD3,['P'],[np.int64(1867)]
+3061,2085,VSD3,['P'],[np.int64(1867)]
+3061,2088,VSD3,['P'],[np.int64(1867)]
+3061,2089,VSD3,['P'],[np.int64(1867)]
+3061,2090,VSD3,['P'],[np.int64(1867)]

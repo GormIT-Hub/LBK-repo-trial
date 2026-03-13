@@ -1,0 +1,995 @@
+traj_len,frame,region,particle,particle_resid
+3304,0,Channel,"['POT', 'POT']","[np.int64(3281), np.int64(3290)]"
+3304,1,Channel,['POT'],[np.int64(3281)]
+3304,2,Channel,['POT'],[np.int64(3281)]
+3304,3,Channel,['POT'],[np.int64(3281)]
+3304,4,Channel,['POT'],[np.int64(3281)]
+3304,5,Channel,['POT'],[np.int64(3281)]
+3304,6,Channel,['POT'],[np.int64(3281)]
+3304,7,Channel,['POT'],[np.int64(3281)]
+3304,8,Channel,['POT'],[np.int64(3281)]
+3304,9,Channel,['POT'],[np.int64(3281)]
+3304,10,Channel,['POT'],[np.int64(3281)]
+3304,11,Channel,['POT'],[np.int64(3281)]
+3304,12,Channel,['POT'],[np.int64(3281)]
+3304,13,Channel,['POT'],[np.int64(3281)]
+3304,14,Channel,['POT'],[np.int64(3281)]
+3304,15,Channel,['POT'],[np.int64(3281)]
+3304,16,Channel,['POT'],[np.int64(3281)]
+3304,17,Channel,['POT'],[np.int64(3281)]
+3304,18,Channel,['POT'],[np.int64(3281)]
+3304,19,Channel,['POT'],[np.int64(3281)]
+3304,20,Channel,['POT'],[np.int64(3281)]
+3304,21,Channel,['POT'],[np.int64(3281)]
+3304,22,Channel,['POT'],[np.int64(3281)]
+3304,23,Channel,['POT'],[np.int64(3281)]
+3304,24,Channel,['POT'],[np.int64(3281)]
+3304,25,Channel,['POT'],[np.int64(3281)]
+3304,26,Channel,['POT'],[np.int64(3281)]
+3304,27,Channel,['POT'],[np.int64(3281)]
+3304,28,Channel,['POT'],[np.int64(3281)]
+3304,29,Channel,['POT'],[np.int64(3281)]
+3304,30,Channel,['POT'],[np.int64(3281)]
+3304,31,Channel,['POT'],[np.int64(3281)]
+3304,32,Channel,['POT'],[np.int64(3281)]
+3304,33,Channel,['POT'],[np.int64(3281)]
+3304,34,Channel,['POT'],[np.int64(3281)]
+3304,35,Channel,['POT'],[np.int64(3281)]
+3304,36,Channel,['POT'],[np.int64(3281)]
+3304,37,Channel,['POT'],[np.int64(3281)]
+3304,38,Channel,['POT'],[np.int64(3281)]
+3304,39,Channel,['POT'],[np.int64(3281)]
+3304,40,Channel,['POT'],[np.int64(3281)]
+3304,41,Channel,['POT'],[np.int64(3281)]
+3304,42,Channel,['POT'],[np.int64(3281)]
+3304,43,Channel,['POT'],[np.int64(3281)]
+3304,44,Channel,['POT'],[np.int64(3281)]
+3304,45,Channel,['POT'],[np.int64(3281)]
+3304,46,Channel,['POT'],[np.int64(3281)]
+3304,47,Channel,['POT'],[np.int64(3281)]
+3304,48,Channel,['POT'],[np.int64(3281)]
+3304,49,Channel,['POT'],[np.int64(3281)]
+3304,50,Channel,['POT'],[np.int64(3281)]
+3304,51,Channel,['POT'],[np.int64(3281)]
+3304,52,Channel,['POT'],[np.int64(3281)]
+3304,53,Channel,['POT'],[np.int64(3281)]
+3304,54,Channel,['POT'],[np.int64(3281)]
+3304,55,Channel,['POT'],[np.int64(3281)]
+3304,56,Channel,['POT'],[np.int64(3281)]
+3304,57,Channel,['POT'],[np.int64(3281)]
+3304,58,Channel,['POT'],[np.int64(3281)]
+3304,59,Channel,['POT'],[np.int64(3281)]
+3304,60,Channel,['POT'],[np.int64(3281)]
+3304,61,Channel,['POT'],[np.int64(3281)]
+3304,62,Channel,['POT'],[np.int64(3281)]
+3304,63,Channel,['POT'],[np.int64(3281)]
+3304,64,Channel,['POT'],[np.int64(3281)]
+3304,65,Channel,['POT'],[np.int64(3281)]
+3304,66,Channel,['POT'],[np.int64(3281)]
+3304,67,Channel,['POT'],[np.int64(3281)]
+3304,68,Channel,['POT'],[np.int64(3281)]
+3304,69,Channel,['POT'],[np.int64(3281)]
+3304,70,Channel,['POT'],[np.int64(3281)]
+3304,71,Channel,['POT'],[np.int64(3281)]
+3304,72,Channel,['POT'],[np.int64(3281)]
+3304,73,Channel,['POT'],[np.int64(3281)]
+3304,74,Channel,['POT'],[np.int64(3281)]
+3304,75,Channel,['POT'],[np.int64(3281)]
+3304,76,Channel,['POT'],[np.int64(3281)]
+3304,77,Channel,['POT'],[np.int64(3281)]
+3304,78,Channel,['POT'],[np.int64(3281)]
+3304,79,Channel,['POT'],[np.int64(3281)]
+3304,80,Channel,"['POT', 'POT']","[np.int64(2967), np.int64(3281)]"
+3304,81,Channel,['POT'],[np.int64(3281)]
+3304,82,Channel,['POT'],[np.int64(3281)]
+3304,83,Channel,['POT'],[np.int64(3281)]
+3304,84,Channel,['POT'],[np.int64(3281)]
+3304,85,Channel,['POT'],[np.int64(3281)]
+3304,86,Channel,['POT'],[np.int64(3281)]
+3304,87,Channel,['POT'],[np.int64(3281)]
+3304,88,Channel,['POT'],[np.int64(3281)]
+3304,89,Channel,['POT'],[np.int64(3281)]
+3304,90,Channel,['POT'],[np.int64(3281)]
+3304,91,Channel,['POT'],[np.int64(3281)]
+3304,92,Channel,['POT'],[np.int64(3281)]
+3304,93,Channel,['POT'],[np.int64(3281)]
+3304,94,Channel,['POT'],[np.int64(3281)]
+3304,95,Channel,['POT'],[np.int64(3281)]
+3304,96,Channel,['POT'],[np.int64(3281)]
+3304,97,Channel,['POT'],[np.int64(3281)]
+3304,98,Channel,['POT'],[np.int64(3281)]
+3304,99,Channel,['POT'],[np.int64(3281)]
+3304,100,Channel,['POT'],[np.int64(3281)]
+3304,101,Channel,['POT'],[np.int64(3281)]
+3304,102,Channel,['POT'],[np.int64(3281)]
+3304,103,Channel,['POT'],[np.int64(3281)]
+3304,104,Channel,['POT'],[np.int64(3281)]
+3304,105,Channel,['POT'],[np.int64(3281)]
+3304,106,Channel,['POT'],[np.int64(3281)]
+3304,107,Channel,['POT'],[np.int64(3281)]
+3304,108,Channel,['POT'],[np.int64(3281)]
+3304,109,Channel,['POT'],[np.int64(3281)]
+3304,110,Channel,['POT'],[np.int64(3281)]
+3304,111,Channel,['POT'],[np.int64(3281)]
+3304,112,Channel,['POT'],[np.int64(3281)]
+3304,113,Channel,['POT'],[np.int64(3281)]
+3304,114,Channel,['POT'],[np.int64(3281)]
+3304,115,Channel,['POT'],[np.int64(3281)]
+3304,116,Channel,['POT'],[np.int64(3281)]
+3304,117,Channel,"['POT', 'POT']","[np.int64(2967), np.int64(3281)]"
+3304,118,Channel,['POT'],[np.int64(3281)]
+3304,119,Channel,"['POT', 'POT']","[np.int64(2967), np.int64(3281)]"
+3304,120,Channel,['POT'],[np.int64(3281)]
+3304,121,Channel,['POT'],[np.int64(3281)]
+3304,122,Channel,['POT'],[np.int64(3281)]
+3304,123,Channel,['POT'],[np.int64(3281)]
+3304,124,Channel,['POT'],[np.int64(3281)]
+3304,125,Channel,['POT'],[np.int64(3281)]
+3304,126,Channel,['POT'],[np.int64(3281)]
+3304,127,Channel,['POT'],[np.int64(3281)]
+3304,128,Channel,['POT'],[np.int64(3281)]
+3304,129,Channel,['POT'],[np.int64(3281)]
+3304,130,Channel,['POT'],[np.int64(3281)]
+3304,131,Channel,['POT'],[np.int64(3281)]
+3304,132,Channel,['POT'],[np.int64(3281)]
+3304,133,Channel,['POT'],[np.int64(3281)]
+3304,134,Channel,['POT'],[np.int64(3281)]
+3304,135,Channel,['POT'],[np.int64(3281)]
+3304,136,Channel,['POT'],[np.int64(3281)]
+3304,137,Channel,['POT'],[np.int64(3281)]
+3304,138,Channel,['POT'],[np.int64(3281)]
+3304,139,Channel,['POT'],[np.int64(3281)]
+3304,140,Channel,['POT'],[np.int64(3281)]
+3304,141,Channel,['POT'],[np.int64(3281)]
+3304,142,Channel,['POT'],[np.int64(3281)]
+3304,143,Channel,['POT'],[np.int64(3281)]
+3304,144,Channel,['POT'],[np.int64(3281)]
+3304,145,Channel,['POT'],[np.int64(3281)]
+3304,146,Channel,['POT'],[np.int64(3281)]
+3304,147,Channel,['POT'],[np.int64(3281)]
+3304,148,Channel,['POT'],[np.int64(3281)]
+3304,149,Channel,['POT'],[np.int64(3281)]
+3304,150,Channel,['POT'],[np.int64(3281)]
+3304,151,Channel,['POT'],[np.int64(3281)]
+3304,152,Channel,"['POT', 'POT']","[np.int64(2967), np.int64(3281)]"
+3304,153,Channel,"['POT', 'POT']","[np.int64(2967), np.int64(3281)]"
+3304,154,Channel,['POT'],[np.int64(3281)]
+3304,155,Channel,['POT'],[np.int64(3281)]
+3304,156,Channel,['POT'],[np.int64(3281)]
+3304,157,Channel,['POT'],[np.int64(3281)]
+3304,158,Channel,['POT'],[np.int64(3281)]
+3304,159,Channel,['POT'],[np.int64(3281)]
+3304,160,Channel,['POT'],[np.int64(3281)]
+3304,161,Channel,['POT'],[np.int64(3281)]
+3304,162,Channel,['POT'],[np.int64(3281)]
+3304,163,Channel,['POT'],[np.int64(3281)]
+3304,164,Channel,['POT'],[np.int64(3281)]
+3304,165,Channel,['POT'],[np.int64(3281)]
+3304,166,Channel,['POT'],[np.int64(3281)]
+3304,167,Channel,['POT'],[np.int64(3281)]
+3304,168,Channel,['POT'],[np.int64(3281)]
+3304,169,Channel,['POT'],[np.int64(3281)]
+3304,170,Channel,['POT'],[np.int64(3281)]
+3304,171,Channel,['POT'],[np.int64(3281)]
+3304,172,Channel,['POT'],[np.int64(3281)]
+3304,173,Channel,['POT'],[np.int64(3281)]
+3304,174,Channel,['POT'],[np.int64(3281)]
+3304,175,Channel,['POT'],[np.int64(3281)]
+3304,176,Channel,['POT'],[np.int64(3281)]
+3304,177,Channel,['POT'],[np.int64(3281)]
+3304,178,Channel,['POT'],[np.int64(3281)]
+3304,179,Channel,['POT'],[np.int64(3281)]
+3304,180,Channel,['POT'],[np.int64(3281)]
+3304,181,Channel,['POT'],[np.int64(3281)]
+3304,182,Channel,['POT'],[np.int64(3281)]
+3304,183,Channel,['POT'],[np.int64(3281)]
+3304,184,Channel,['POT'],[np.int64(3281)]
+3304,185,Channel,['POT'],[np.int64(3281)]
+3304,186,Channel,['POT'],[np.int64(3281)]
+3304,187,Channel,['POT'],[np.int64(3281)]
+3304,188,Channel,['POT'],[np.int64(3281)]
+3304,189,Channel,['POT'],[np.int64(3281)]
+3304,190,Channel,['POT'],[np.int64(3281)]
+3304,191,Channel,['POT'],[np.int64(3281)]
+3304,192,Channel,['POT'],[np.int64(3281)]
+3304,193,Channel,['POT'],[np.int64(3281)]
+3304,194,Channel,['POT'],[np.int64(3281)]
+3304,195,Channel,['POT'],[np.int64(3281)]
+3304,196,Channel,['POT'],[np.int64(3281)]
+3304,197,Channel,['POT'],[np.int64(3281)]
+3304,198,Channel,['POT'],[np.int64(3281)]
+3304,199,Channel,['POT'],[np.int64(3281)]
+3304,200,Channel,['POT'],[np.int64(3281)]
+3304,201,Channel,['POT'],[np.int64(3281)]
+3304,202,Channel,['POT'],[np.int64(3281)]
+3304,203,Channel,['POT'],[np.int64(3281)]
+3304,204,Channel,['POT'],[np.int64(3281)]
+3304,205,Channel,['POT'],[np.int64(3281)]
+3304,206,Channel,['POT'],[np.int64(3281)]
+3304,207,Channel,['POT'],[np.int64(3281)]
+3304,208,Channel,['POT'],[np.int64(3281)]
+3304,209,Channel,['POT'],[np.int64(3281)]
+3304,210,Channel,['POT'],[np.int64(3281)]
+3304,211,Channel,['POT'],[np.int64(3281)]
+3304,212,Channel,['POT'],[np.int64(3281)]
+3304,213,Channel,['POT'],[np.int64(3281)]
+3304,214,Channel,['POT'],[np.int64(3281)]
+3304,215,Channel,['POT'],[np.int64(3281)]
+3304,216,Channel,['POT'],[np.int64(3281)]
+3304,217,Channel,['POT'],[np.int64(3281)]
+3304,218,Channel,['POT'],[np.int64(3281)]
+3304,219,Channel,['POT'],[np.int64(3281)]
+3304,220,Channel,['POT'],[np.int64(3281)]
+3304,221,Channel,['POT'],[np.int64(3281)]
+3304,222,Channel,['POT'],[np.int64(3281)]
+3304,223,Channel,['POT'],[np.int64(3281)]
+3304,224,Channel,['POT'],[np.int64(3281)]
+3304,225,Channel,['POT'],[np.int64(3281)]
+3304,226,Channel,['POT'],[np.int64(3281)]
+3304,227,Channel,['POT'],[np.int64(3281)]
+3304,228,Channel,"['POT', 'POT']","[np.int64(2967), np.int64(3281)]"
+3304,229,Channel,['POT'],[np.int64(3281)]
+3304,230,Channel,['POT'],[np.int64(3281)]
+3304,231,Channel,"['POT', 'POT']","[np.int64(2967), np.int64(3281)]"
+3304,232,Channel,['POT'],[np.int64(3281)]
+3304,233,Channel,['POT'],[np.int64(3281)]
+3304,234,Channel,['POT'],[np.int64(3281)]
+3304,235,Channel,['POT'],[np.int64(3281)]
+3304,236,Channel,['POT'],[np.int64(3281)]
+3304,237,Channel,['POT'],[np.int64(3281)]
+3304,238,Channel,['POT'],[np.int64(3281)]
+3304,239,Channel,['POT'],[np.int64(3281)]
+3304,240,Channel,['POT'],[np.int64(3281)]
+3304,241,Channel,['POT'],[np.int64(3281)]
+3304,242,Channel,['POT'],[np.int64(3281)]
+3304,243,Channel,['POT'],[np.int64(3281)]
+3304,244,Channel,['POT'],[np.int64(3281)]
+3304,245,Channel,['POT'],[np.int64(3281)]
+3304,246,Channel,['POT'],[np.int64(3281)]
+3304,247,Channel,['POT'],[np.int64(3281)]
+3304,248,Channel,['POT'],[np.int64(3281)]
+3304,249,Channel,['POT'],[np.int64(3281)]
+3304,250,Channel,['POT'],[np.int64(3281)]
+3304,251,Channel,['POT'],[np.int64(3281)]
+3304,252,Channel,"['POT', 'POT']","[np.int64(2967), np.int64(3281)]"
+3304,253,Channel,['POT'],[np.int64(3281)]
+3304,254,Channel,['POT'],[np.int64(3281)]
+3304,255,Channel,"['POT', 'POT']","[np.int64(2967), np.int64(3281)]"
+3304,256,Channel,"['POT', 'POT']","[np.int64(2967), np.int64(3281)]"
+3304,257,Channel,"['POT', 'POT']","[np.int64(2967), np.int64(3281)]"
+3304,258,Channel,['POT'],[np.int64(3281)]
+3304,259,Channel,['POT'],[np.int64(3281)]
+3304,260,Channel,['POT'],[np.int64(3281)]
+3304,261,Channel,['POT'],[np.int64(3281)]
+3304,262,Channel,['POT'],[np.int64(3281)]
+3304,263,Channel,['POT'],[np.int64(3281)]
+3304,264,Channel,['POT'],[np.int64(3281)]
+3304,265,Channel,['POT'],[np.int64(3281)]
+3304,266,Channel,['POT'],[np.int64(3281)]
+3304,267,Channel,['POT'],[np.int64(3281)]
+3304,268,Channel,['POT'],[np.int64(3281)]
+3304,269,Channel,['POT'],[np.int64(3281)]
+3304,270,Channel,['POT'],[np.int64(3281)]
+3304,271,Channel,['POT'],[np.int64(3281)]
+3304,272,Channel,['POT'],[np.int64(3281)]
+3304,273,Channel,['POT'],[np.int64(3281)]
+3304,274,Channel,['POT'],[np.int64(3281)]
+3304,275,Channel,['POT'],[np.int64(3281)]
+3304,276,Channel,['POT'],[np.int64(3281)]
+3304,277,Channel,['POT'],[np.int64(3281)]
+3304,278,Channel,['POT'],[np.int64(3281)]
+3304,279,Channel,['POT'],[np.int64(3281)]
+3304,280,Channel,['POT'],[np.int64(3281)]
+3304,281,Channel,['POT'],[np.int64(3281)]
+3304,282,Channel,['POT'],[np.int64(3281)]
+3304,283,Channel,['POT'],[np.int64(3281)]
+3304,284,Channel,['POT'],[np.int64(3281)]
+3304,285,Channel,['POT'],[np.int64(3281)]
+3304,286,Channel,"['POT', 'POT']","[np.int64(2967), np.int64(3281)]"
+3304,287,Channel,['POT'],[np.int64(3281)]
+3304,288,Channel,['POT'],[np.int64(3281)]
+3304,289,Channel,"['POT', 'POT']","[np.int64(2967), np.int64(3281)]"
+3304,290,Channel,"['POT', 'POT']","[np.int64(2967), np.int64(3281)]"
+3304,291,Channel,['POT'],[np.int64(3281)]
+3304,292,Channel,['POT'],[np.int64(3281)]
+3304,293,Channel,['POT'],[np.int64(3281)]
+3304,294,Channel,"['POT', 'POT']","[np.int64(2967), np.int64(3281)]"
+3304,295,Channel,"['POT', 'POT']","[np.int64(2967), np.int64(3281)]"
+3304,296,Channel,"['POT', 'POT']","[np.int64(2967), np.int64(3281)]"
+3304,297,Channel,"['POT', 'POT']","[np.int64(2967), np.int64(3281)]"
+3304,298,Channel,"['POT', 'POT']","[np.int64(2967), np.int64(3281)]"
+3304,299,Channel,"['POT', 'POT']","[np.int64(2967), np.int64(3281)]"
+3304,300,Channel,['POT'],[np.int64(3281)]
+3304,301,Channel,['POT'],[np.int64(3281)]
+3304,302,Channel,['POT'],[np.int64(3281)]
+3304,303,Channel,['POT'],[np.int64(3281)]
+3304,304,Channel,"['POT', 'POT']","[np.int64(2967), np.int64(3281)]"
+3304,305,Channel,"['POT', 'POT']","[np.int64(2967), np.int64(3281)]"
+3304,306,Channel,"['POT', 'POT']","[np.int64(2967), np.int64(3281)]"
+3304,307,Channel,"['POT', 'POT']","[np.int64(2967), np.int64(3281)]"
+3304,308,Channel,['POT'],[np.int64(3281)]
+3304,309,Channel,['POT'],[np.int64(3281)]
+3304,310,Channel,['POT'],[np.int64(3281)]
+3304,311,Channel,['POT'],[np.int64(3281)]
+3304,312,Channel,['POT'],[np.int64(3281)]
+3304,313,Channel,['POT'],[np.int64(3281)]
+3304,314,Channel,['POT'],[np.int64(3281)]
+3304,315,Channel,['POT'],[np.int64(3281)]
+3304,316,Channel,['POT'],[np.int64(3281)]
+3304,317,Channel,['POT'],[np.int64(3281)]
+3304,318,Channel,['POT'],[np.int64(3281)]
+3304,319,Channel,['POT'],[np.int64(3281)]
+3304,320,Channel,['POT'],[np.int64(3281)]
+3304,321,Channel,['POT'],[np.int64(3281)]
+3304,322,Channel,['POT'],[np.int64(3281)]
+3304,323,Channel,['POT'],[np.int64(3281)]
+3304,324,Channel,"['POT', 'POT']","[np.int64(2967), np.int64(3281)]"
+3304,325,Channel,['POT'],[np.int64(3281)]
+3304,326,Channel,['POT'],[np.int64(3281)]
+3304,327,Channel,"['POT', 'POT']","[np.int64(2967), np.int64(3281)]"
+3304,328,Channel,"['POT', 'POT']","[np.int64(2967), np.int64(3281)]"
+3304,329,Channel,['POT'],[np.int64(3281)]
+3304,330,Channel,['POT'],[np.int64(3281)]
+3304,331,Channel,['POT'],[np.int64(3281)]
+3304,332,Channel,['POT'],[np.int64(3281)]
+3304,333,Channel,"['POT', 'POT']","[np.int64(2967), np.int64(3281)]"
+3304,334,Channel,"['POT', 'POT']","[np.int64(2967), np.int64(3281)]"
+3304,335,Channel,"['POT', 'POT']","[np.int64(2967), np.int64(3281)]"
+3304,336,Channel,['POT'],[np.int64(3281)]
+3304,337,Channel,['POT'],[np.int64(3281)]
+3304,338,Channel,['POT'],[np.int64(3281)]
+3304,339,Channel,['POT'],[np.int64(3281)]
+3304,340,Channel,['POT'],[np.int64(3281)]
+3304,341,Channel,['POT'],[np.int64(3281)]
+3304,342,Channel,['POT'],[np.int64(3281)]
+3304,343,Channel,['POT'],[np.int64(3281)]
+3304,344,Channel,['POT'],[np.int64(3281)]
+3304,345,Channel,['POT'],[np.int64(3281)]
+3304,346,Channel,['POT'],[np.int64(3281)]
+3304,347,Channel,['POT'],[np.int64(3281)]
+3304,348,Channel,['POT'],[np.int64(3281)]
+3304,349,Channel,"['POT', 'POT']","[np.int64(2967), np.int64(3281)]"
+3304,350,Channel,"['POT', 'POT']","[np.int64(2967), np.int64(3281)]"
+3304,351,Channel,"['POT', 'POT']","[np.int64(2967), np.int64(3281)]"
+3304,352,Channel,"['POT', 'POT']","[np.int64(2967), np.int64(3281)]"
+3304,353,Channel,"['POT', 'POT']","[np.int64(2967), np.int64(3281)]"
+3304,354,Channel,"['POT', 'POT']","[np.int64(2967), np.int64(3281)]"
+3304,355,Channel,"['POT', 'POT']","[np.int64(2967), np.int64(3281)]"
+3304,356,Channel,"['POT', 'POT']","[np.int64(2967), np.int64(3281)]"
+3304,357,Channel,['POT'],[np.int64(3281)]
+3304,358,Channel,['POT'],[np.int64(3281)]
+3304,359,Channel,['POT'],[np.int64(3281)]
+3304,360,Channel,['POT'],[np.int64(3281)]
+3304,361,Channel,['POT'],[np.int64(3281)]
+3304,362,Channel,['POT'],[np.int64(3281)]
+3304,363,Channel,['POT'],[np.int64(3281)]
+3304,364,Channel,['POT'],[np.int64(3281)]
+3304,365,Channel,['POT'],[np.int64(3281)]
+3304,366,Channel,['POT'],[np.int64(3281)]
+3304,367,Channel,['POT'],[np.int64(3281)]
+3304,368,Channel,['POT'],[np.int64(3281)]
+3304,369,Channel,['POT'],[np.int64(3281)]
+3304,370,Channel,['POT'],[np.int64(3281)]
+3304,371,Channel,['POT'],[np.int64(3281)]
+3304,372,Channel,['POT'],[np.int64(3281)]
+3304,373,Channel,['POT'],[np.int64(3281)]
+3304,374,Channel,['POT'],[np.int64(3281)]
+3304,375,Channel,['POT'],[np.int64(3281)]
+3304,376,Channel,['POT'],[np.int64(3281)]
+3304,377,Channel,['POT'],[np.int64(3281)]
+3304,378,Channel,['POT'],[np.int64(3281)]
+3304,379,Channel,['POT'],[np.int64(3281)]
+3304,380,Channel,['POT'],[np.int64(3281)]
+3304,381,Channel,['POT'],[np.int64(3281)]
+3304,382,Channel,"['POT', 'POT']","[np.int64(2967), np.int64(3281)]"
+3304,383,Channel,['POT'],[np.int64(3281)]
+3304,384,Channel,['POT'],[np.int64(3281)]
+3304,385,Channel,['POT'],[np.int64(3281)]
+3304,386,Channel,['POT'],[np.int64(3281)]
+3304,387,Channel,['POT'],[np.int64(3281)]
+3304,388,Channel,['POT'],[np.int64(3281)]
+3304,389,Channel,['POT'],[np.int64(3281)]
+3304,390,Channel,['POT'],[np.int64(3281)]
+3304,391,Channel,"['POT', 'POT']","[np.int64(2967), np.int64(3281)]"
+3304,392,Channel,['POT'],[np.int64(3281)]
+3304,393,Channel,['POT'],[np.int64(3281)]
+3304,394,Channel,['POT'],[np.int64(3281)]
+3304,395,Channel,['POT'],[np.int64(3281)]
+3304,396,Channel,['POT'],[np.int64(3281)]
+3304,397,Channel,['POT'],[np.int64(3281)]
+3304,398,Channel,['POT'],[np.int64(3281)]
+3304,399,Channel,['POT'],[np.int64(3281)]
+3304,400,Channel,['POT'],[np.int64(3281)]
+3304,401,Channel,['POT'],[np.int64(3281)]
+3304,402,Channel,['POT'],[np.int64(3281)]
+3304,403,Channel,"['POT', 'POT']","[np.int64(2967), np.int64(3281)]"
+3304,404,Channel,"['POT', 'POT']","[np.int64(2967), np.int64(3281)]"
+3304,405,Channel,['POT'],[np.int64(3281)]
+3304,406,Channel,['POT'],[np.int64(3281)]
+3304,407,Channel,['POT'],[np.int64(3281)]
+3304,408,Channel,['POT'],[np.int64(3281)]
+3304,409,Channel,['POT'],[np.int64(3281)]
+3304,410,Channel,['POT'],[np.int64(3281)]
+3304,411,Channel,['POT'],[np.int64(3281)]
+3304,412,Channel,['POT'],[np.int64(3281)]
+3304,413,Channel,['POT'],[np.int64(3281)]
+3304,414,Channel,['POT'],[np.int64(3281)]
+3304,415,Channel,['POT'],[np.int64(3281)]
+3304,416,Channel,['POT'],[np.int64(3281)]
+3304,417,Channel,['POT'],[np.int64(3281)]
+3304,418,Channel,['POT'],[np.int64(3281)]
+3304,419,Channel,['POT'],[np.int64(3281)]
+3304,420,Channel,['POT'],[np.int64(3281)]
+3304,421,Channel,['POT'],[np.int64(3281)]
+3304,422,Channel,['POT'],[np.int64(3281)]
+3304,423,Channel,['POT'],[np.int64(3281)]
+3304,424,Channel,['POT'],[np.int64(3281)]
+3304,425,Channel,['POT'],[np.int64(3281)]
+3304,426,Channel,['POT'],[np.int64(3281)]
+3304,427,Channel,['POT'],[np.int64(3281)]
+3304,428,Channel,['POT'],[np.int64(3281)]
+3304,429,Channel,['POT'],[np.int64(3281)]
+3304,430,Channel,['POT'],[np.int64(3281)]
+3304,431,Channel,['POT'],[np.int64(3281)]
+3304,432,Channel,['POT'],[np.int64(3281)]
+3304,433,Channel,['POT'],[np.int64(3281)]
+3304,434,Channel,['POT'],[np.int64(3281)]
+3304,435,Channel,['POT'],[np.int64(3281)]
+3304,436,Channel,['POT'],[np.int64(3281)]
+3304,437,Channel,['POT'],[np.int64(3281)]
+3304,438,Channel,['POT'],[np.int64(3281)]
+3304,439,Channel,['POT'],[np.int64(3281)]
+3304,440,Channel,['POT'],[np.int64(3281)]
+3304,441,Channel,['POT'],[np.int64(3281)]
+3304,442,Channel,['POT'],[np.int64(3281)]
+3304,443,Channel,['POT'],[np.int64(3281)]
+3304,444,Channel,['POT'],[np.int64(3281)]
+3304,445,Channel,"['POT', 'POT']","[np.int64(2967), np.int64(3281)]"
+3304,446,Channel,['POT'],[np.int64(3281)]
+3304,447,Channel,['POT'],[np.int64(3281)]
+3304,448,Channel,['POT'],[np.int64(3281)]
+3304,449,Channel,['POT'],[np.int64(3281)]
+3304,450,Channel,['POT'],[np.int64(3281)]
+3304,451,Channel,['POT'],[np.int64(3281)]
+3304,452,Channel,['POT'],[np.int64(3281)]
+3304,453,Channel,['POT'],[np.int64(3281)]
+3304,454,Channel,['POT'],[np.int64(3281)]
+3304,455,Channel,['POT'],[np.int64(3281)]
+3304,456,Channel,['POT'],[np.int64(3281)]
+3304,457,Channel,['POT'],[np.int64(3281)]
+3304,458,Channel,['POT'],[np.int64(3281)]
+3304,459,Channel,"['POT', 'POT']","[np.int64(2967), np.int64(3281)]"
+3304,460,Channel,['POT'],[np.int64(3281)]
+3304,461,Channel,['POT'],[np.int64(3281)]
+3304,462,Channel,"['POT', 'POT']","[np.int64(2967), np.int64(3281)]"
+3304,463,Channel,['POT'],[np.int64(3281)]
+3304,464,Channel,['POT'],[np.int64(3281)]
+3304,465,Channel,"['POT', 'POT']","[np.int64(2967), np.int64(3281)]"
+3304,466,Channel,['POT'],[np.int64(3281)]
+3304,467,Channel,['POT'],[np.int64(3281)]
+3304,468,Channel,['POT'],[np.int64(3281)]
+3304,469,Channel,['POT'],[np.int64(3281)]
+3304,470,Channel,['POT'],[np.int64(3281)]
+3304,471,Channel,['POT'],[np.int64(3281)]
+3304,472,Channel,['POT'],[np.int64(3281)]
+3304,473,Channel,['POT'],[np.int64(3281)]
+3304,474,Channel,['POT'],[np.int64(3281)]
+3304,475,Channel,['POT'],[np.int64(3281)]
+3304,476,Channel,['POT'],[np.int64(3281)]
+3304,477,Channel,['POT'],[np.int64(3281)]
+3304,478,Channel,['POT'],[np.int64(3281)]
+3304,479,Channel,['POT'],[np.int64(3281)]
+3304,480,Channel,['POT'],[np.int64(3281)]
+3304,481,Channel,['POT'],[np.int64(3281)]
+3304,482,Channel,['POT'],[np.int64(3281)]
+3304,483,Channel,['POT'],[np.int64(3281)]
+3304,484,Channel,['POT'],[np.int64(3281)]
+3304,485,Channel,['POT'],[np.int64(3281)]
+3304,486,Channel,['POT'],[np.int64(3281)]
+3304,487,Channel,['POT'],[np.int64(3281)]
+3304,488,Channel,['POT'],[np.int64(3281)]
+3304,489,Channel,['POT'],[np.int64(3281)]
+3304,490,Channel,['POT'],[np.int64(3281)]
+3304,491,Channel,['POT'],[np.int64(3281)]
+3304,492,Channel,['POT'],[np.int64(3281)]
+3304,493,Channel,['POT'],[np.int64(3281)]
+3304,494,Channel,['POT'],[np.int64(3281)]
+3304,495,Channel,['POT'],[np.int64(3281)]
+3304,496,Channel,['POT'],[np.int64(3281)]
+3304,497,Channel,['POT'],[np.int64(3281)]
+3304,498,Channel,['POT'],[np.int64(3281)]
+3304,499,Channel,['POT'],[np.int64(3281)]
+3304,500,Channel,['POT'],[np.int64(3281)]
+3304,501,Channel,['POT'],[np.int64(3281)]
+3304,502,Channel,['POT'],[np.int64(3281)]
+3304,503,Channel,['POT'],[np.int64(3281)]
+3304,504,Channel,['POT'],[np.int64(3281)]
+3304,505,Channel,['POT'],[np.int64(3281)]
+3304,506,Channel,['POT'],[np.int64(3281)]
+3304,507,Channel,['POT'],[np.int64(3281)]
+3304,508,Channel,['POT'],[np.int64(3281)]
+3304,509,Channel,['POT'],[np.int64(3281)]
+3304,510,Channel,['POT'],[np.int64(3281)]
+3304,511,Channel,['POT'],[np.int64(3281)]
+3304,512,Channel,['POT'],[np.int64(3281)]
+3304,513,Channel,['POT'],[np.int64(3281)]
+3304,514,Channel,['POT'],[np.int64(3281)]
+3304,515,Channel,['POT'],[np.int64(3281)]
+3304,516,Channel,['POT'],[np.int64(3281)]
+3304,517,Channel,['POT'],[np.int64(3281)]
+3304,518,Channel,['POT'],[np.int64(3281)]
+3304,519,Channel,['POT'],[np.int64(3281)]
+3304,520,Channel,['POT'],[np.int64(3281)]
+3304,521,Channel,['POT'],[np.int64(3281)]
+3304,522,Channel,['POT'],[np.int64(3281)]
+3304,523,Channel,['POT'],[np.int64(3281)]
+3304,524,Channel,['POT'],[np.int64(3281)]
+3304,525,Channel,['POT'],[np.int64(3281)]
+3304,526,Channel,['POT'],[np.int64(3281)]
+3304,527,Channel,['POT'],[np.int64(3281)]
+3304,528,Channel,['POT'],[np.int64(3281)]
+3304,529,Channel,['POT'],[np.int64(3281)]
+3304,530,Channel,['POT'],[np.int64(3281)]
+3304,531,Channel,['POT'],[np.int64(3281)]
+3304,532,Channel,['POT'],[np.int64(3281)]
+3304,533,Channel,['POT'],[np.int64(3281)]
+3304,534,Channel,['POT'],[np.int64(3281)]
+3304,535,Channel,['POT'],[np.int64(3281)]
+3304,536,Channel,['POT'],[np.int64(3281)]
+3304,537,Channel,['POT'],[np.int64(3281)]
+3304,538,Channel,['POT'],[np.int64(3281)]
+3304,539,Channel,['POT'],[np.int64(3281)]
+3304,540,Channel,['POT'],[np.int64(3281)]
+3304,541,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,542,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,543,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,544,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,545,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,546,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,547,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,548,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,549,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,550,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,551,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,552,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,553,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,554,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,555,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,556,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,557,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,558,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,559,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,560,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,561,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,562,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,563,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,564,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,565,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,566,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,567,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,568,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,569,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,570,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,571,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,572,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,573,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,574,Channel,['POT'],[np.int64(3203)]
+3304,575,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,576,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,577,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,578,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,579,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,580,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,581,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,582,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,583,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,584,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,585,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,586,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,587,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,588,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,589,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,590,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,591,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,592,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,593,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,594,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,595,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,596,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,597,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,598,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,599,Channel,['POT'],[np.int64(3203)]
+3304,600,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,601,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,602,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,603,Channel,['POT'],[np.int64(3203)]
+3304,604,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,605,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,606,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,607,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,608,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,609,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,610,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,611,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,612,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,613,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,614,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,615,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,616,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,617,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,618,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,619,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,620,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,621,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,622,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,623,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,624,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,625,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,626,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,627,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,628,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,629,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,630,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,631,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,632,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,633,Channel,['POT'],[np.int64(3203)]
+3304,634,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,635,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,636,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,637,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,638,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,639,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,640,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,641,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,642,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,643,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,644,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,645,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,646,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,647,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,648,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,649,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,650,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,651,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,652,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,653,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,654,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,655,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,656,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,657,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,658,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,659,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,660,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,661,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,662,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,663,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,664,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,665,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,666,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,667,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,668,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,669,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,670,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,671,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,672,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,673,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,674,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,675,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,676,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,677,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,678,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,679,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,680,Channel,['POT'],[np.int64(3203)]
+3304,681,Channel,['POT'],[np.int64(3203)]
+3304,682,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,683,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,684,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,685,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,686,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,687,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,688,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,689,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,690,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,691,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,692,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,693,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,694,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,695,Channel,['POT'],[np.int64(3203)]
+3304,696,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,697,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,698,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,699,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,700,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,701,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,702,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,703,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,704,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,705,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,706,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,707,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,708,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,709,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,710,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,711,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,712,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,713,Channel,['POT'],[np.int64(3203)]
+3304,714,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,715,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,716,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,717,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,718,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,719,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,720,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,721,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,722,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,723,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,724,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,725,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,726,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,727,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,728,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,729,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,730,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,731,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,732,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,733,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,734,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,735,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,736,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,737,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,738,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,739,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,740,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,741,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,742,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,743,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,744,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,745,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,746,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,747,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,748,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,749,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,750,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,751,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,752,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,753,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,754,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,755,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,756,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,757,Channel,['POT'],[np.int64(3203)]
+3304,758,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,759,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,760,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,761,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,762,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,763,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,764,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,765,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,766,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,767,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,768,Channel,['POT'],[np.int64(3203)]
+3304,769,Channel,['POT'],[np.int64(3203)]
+3304,770,Channel,['POT'],[np.int64(3203)]
+3304,771,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,772,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,773,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,774,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,775,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,776,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,777,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,778,Channel,['POT'],[np.int64(3203)]
+3304,779,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,780,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,781,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,782,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,783,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,784,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,785,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,786,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,787,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,788,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,789,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,790,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,791,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,792,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,793,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,794,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,795,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,796,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,797,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,798,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,799,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,800,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,801,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,802,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,803,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,804,Channel,['POT'],[np.int64(3203)]
+3304,805,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,806,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,807,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,808,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,809,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,810,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,811,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,812,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,813,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,814,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,815,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,816,Channel,['POT'],[np.int64(3203)]
+3304,817,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,818,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,819,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,820,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,821,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,822,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,823,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,824,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,825,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,826,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,827,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,828,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,829,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,830,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,831,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,832,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,833,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,834,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,835,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,836,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,837,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,838,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,839,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,840,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,841,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,842,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,843,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,844,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,845,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,846,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,847,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,848,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,849,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,850,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,851,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,852,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,853,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,854,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,855,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,856,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,857,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,858,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,859,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,860,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,861,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,862,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,863,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,864,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,865,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,866,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,867,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,868,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,869,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,870,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,871,Channel,['POT'],[np.int64(3203)]
+3304,872,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,873,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,874,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,875,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,876,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,877,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,878,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,879,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,880,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,881,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,882,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,883,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,884,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,885,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,886,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,887,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,888,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,889,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,890,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,891,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,892,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,893,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,894,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,895,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,896,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,897,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,898,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,899,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,900,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,901,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,902,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,903,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,904,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,905,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,906,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,907,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,908,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,909,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,910,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,911,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,912,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,913,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,914,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,915,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,916,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,917,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,918,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,919,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,920,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,921,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,922,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,923,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,924,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,925,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,926,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,927,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,928,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,929,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,930,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,931,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,932,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,933,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,934,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,935,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,936,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,937,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,938,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,939,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,940,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,941,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,942,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,943,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,944,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,945,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,946,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,947,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,948,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,949,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,950,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,951,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,952,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,953,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,954,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,955,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,956,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,957,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,958,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,959,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,960,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,961,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,962,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,963,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,964,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,965,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,966,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,967,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,968,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,969,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,970,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,971,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,972,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,973,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,974,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,975,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,976,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,977,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,978,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,979,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,980,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,981,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,982,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,983,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,984,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,985,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,986,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,987,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,988,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,989,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,990,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,991,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,992,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"
+3304,993,Channel,"['POT', 'POT']","[np.int64(3203), np.int64(3281)]"

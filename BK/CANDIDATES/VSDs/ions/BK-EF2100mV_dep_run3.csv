@@ -1,0 +1,3 @@
+traj_len,frame,region,particle,particle_resid
+1900,1426,VSD2,['CLA'],[np.int64(3571)]
+1900,1431,VSD2,['CLA'],[np.int64(3571)]

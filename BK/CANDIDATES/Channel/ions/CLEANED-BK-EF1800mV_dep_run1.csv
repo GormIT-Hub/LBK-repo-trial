@@ -1,0 +1,16 @@
+traj_len,frame,region,particle,particle_resid
+6284,0,Channel,POT,3281
+6284,0,Channel,POT,3290
+6284,121,Channel,POT,3203
+6284,442,Channel,POT,2990
+6284,1744,Channel,POT,3093
+6284,2203,Channel,POT,3095
+6284,2813,Channel,POT,3159
+6284,3079,Channel,POT,3155
+6284,3548,Channel,POT,3223
+6284,3932,Channel,POT,3196
+6284,4096,Channel,POT,3064
+6284,4565,Channel,POT,2951
+6284,4616,Channel,POT,2980
+6284,4943,Channel,POT,2954
+6284,5245,Channel,POT,2987
